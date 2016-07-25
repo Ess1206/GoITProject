@@ -14,10 +14,10 @@ import java.util.Map;
 public class ChromeMobile {
 
     public WebDriver getDriver(){
-        Map<String, Object> deviceMetrics = new HashMap<String, Object>();
+/*        Map<String, Object> deviceMetrics = new HashMap<String, Object>();
         deviceMetrics.put("width", 320);
         deviceMetrics.put("height", 480);
-        deviceMetrics.put("pixelRatio", 3.0);
+        deviceMetrics.put("pixelRatio", 3.0);*/
 
         Map<String, Object> mobileEmulation = new HashMap<String, Object>();
         mobileEmulation.put("deviceName", "Apple iPhone 6");

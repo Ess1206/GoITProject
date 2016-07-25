@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99120674-83e0-4475-bc04-7ce7549f1e05" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/TestFW.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/browsers/ChromeMobile.java" afterPath="$PROJECT_DIR$/src/main/java/browsers/ChromeMobile.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/browsers/MyChrome.java" afterPath="$PROJECT_DIR$/src/main/java/browsers/MyChrome.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pageObject/MainPage.java" afterPath="$PROJECT_DIR$/src/main/java/pageObject/MainPage.java" />
     </list>
     <ignored path="GoITProject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,7 +36,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testSuit.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="testSuit.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/xmls/testSuit.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
@@ -75,13 +73,12 @@
       <file leaf-file-name="ChromeMobile.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/browsers/ChromeMobile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+            <state relative-caret-position="210">
+              <caret line="16" column="2" selection-start-line="16" selection-start-column="0" selection-end-line="19" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#419#435#0" expanded="true" />
-                <element signature="e#626#642#0" expanded="true" />
-                <element signature="e#763#779#0" expanded="true" />
+                <element signature="e#630#646#0" expanded="true" />
+                <element signature="e#767#783#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -90,9 +87,13 @@
       <file leaf-file-name="MyChrome.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/browsers/MyChrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="187">
+              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#209#210#0" expanded="true" />
+                <element signature="e#258#259#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -113,7 +114,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestFW.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestFW.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/tests/TestFW.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -136,6 +137,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Stan &lt;ess1206@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -157,8 +163,8 @@
         <option value="$PROJECT_DIR$/src/test/java/tests/TestFW.java" />
         <option value="$PROJECT_DIR$/src/main/java/core/FactoryMethods.java" />
         <option value="$PROJECT_DIR$/src/main/java/pageObject/MainPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/browsers/MyChrome.java" />
         <option value="$PROJECT_DIR$/src/main/java/browsers/ChromeMobile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/browsers/MyChrome.java" />
       </list>
     </option>
   </component>
@@ -728,6 +734,14 @@
       <option name="presentableId" value="Default" />
       <updated>1469464553572</updated>
     </task>
+    <task id="LOCAL-00001" summary="3 COMMIT">
+      <created>1469468803608</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1469468803608</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -803,6 +817,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="3 COMMIT" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 COMMIT" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -874,32 +892,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/browsers/MyChrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/browsers/ChromeMobile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        <state relative-caret-position="210">
+          <caret line="16" column="2" selection-start-line="16" selection-start-column="0" selection-end-line="19" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#419#435#0" expanded="true" />
-            <element signature="e#626#642#0" expanded="true" />
-            <element signature="e#763#779#0" expanded="true" />
+            <element signature="e#630#646#0" expanded="true" />
+            <element signature="e#767#783#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xmls/testSuit.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/browsers/MyChrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="187">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -910,6 +923,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xmls/testSuit.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
